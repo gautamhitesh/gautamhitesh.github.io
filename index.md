@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Beginning Image](beginning.jpg "The Beginning")
