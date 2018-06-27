@@ -1,22 +1,25 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Bucket List
+subtitle: This weeks bucket list
 layout: "page"
 icon: fa-book
 order: 3
 ---
+<!-- I love books! Here are some I'm reading now: -->
+Here is what I'm aiming for this week
+1. Book: *Zero to One*
+2. Book: *Elon Musk*
+3. Cycling: *100km (week)*
+4. Fitness goal:
+    1. *100 crunches*
+    2. *50 push ups*
+    3. *50 burpees*
+    4. *10km run*
+5. Something new to learn: 
+    1. *Heart Knot*
+    2. *Bouncing Pattern in LED strip*
+    3. *Markdown Language*
+    4. *ML Algorithms (Definition)*
+    5. *Design Patterns (Definition)*
 
-I love books! Here are some I'm reading now:
-
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+**I will put the done things in each week bucket list section**
