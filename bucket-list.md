@@ -2,7 +2,7 @@
 title: Bucket List
 subtitle: This weeks bucket list
 layout: "page"
-icon: fa-book
+icon: fa-list
 order: 3
 ---
 <!-- I love books! Here are some I'm reading now: -->
@@ -15,7 +15,7 @@ Here is what I'm aiming for this week
     2. *50 push ups*
     3. *50 burpees*
     4. *10km run*
-5. Something new to learn: 
+5. Something new to learn:
     1. *Heart Knot*
     2. *Bouncing Pattern in LED strip*
     3. *Markdown Language*
