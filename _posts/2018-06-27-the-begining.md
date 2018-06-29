@@ -14,5 +14,6 @@ I want to add the following things into my blog:
 2. [ ] Thought of the day
 3. [X] Blog
 4. [ ] Technical Notes
-5. [ ] Other Notes
-6. [ ] CV
+5. [ ] CV
+6. [X] Movies List
+7. [X] TV Series List
