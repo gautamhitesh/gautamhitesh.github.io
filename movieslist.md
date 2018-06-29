@@ -7,8 +7,6 @@ icon: fa-film
 ---
 
 [IMDb](https://www.imdb.com/user/ur50536824/)
-
-@fa-tv
-
-1. Rampage
-2. 
+1. Rampage (6/10): The Rock and graphics
+2. Ocean's 12 (6/10): Fancy terms and fancy cast
+3. 
