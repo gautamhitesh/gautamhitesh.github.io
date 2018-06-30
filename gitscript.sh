@@ -6,7 +6,7 @@ getParamsFromCli()
 {
     USAGE="usage: ${0##*/} -m <Commit message>"
     if [ $# -eq 0 ] ; then
-    echo "\\033[33;31m No arguments supplied - ${USAGE} \\033[0m" >&2
+    echo -e "\\033[33;31m No arguments supplied - ${USAGE} \\033[0m" >&2
     exit 1
     fi
 
@@ -17,7 +17,7 @@ getParamsFromCli()
             functionCall
         ;;
         *)
-            echo "\\033[33;31m Unimplemented option: -$OPTARG - $USAGE \\033[0m" >&2
+            echo -e "\\033[33;31m Unimplemented option: -$OPTARG - $USAGE \\033[0m" >&2
         ;;  
         esac
     done
