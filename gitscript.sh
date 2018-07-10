@@ -26,7 +26,7 @@ functionCall()
 {
     echo $MESSAGE
     git add --all
-    git commit -m '$MESSAGE'
+    git commit -m $MESSAGE
     git push -u origin master
 }
 
