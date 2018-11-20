@@ -10,6 +10,8 @@ order: 3
   * [ ] 100 kms of cycling 
   * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
   * [ ] Article on Medium
+  * [ ] Make a list of 5 healthy food items (Salads etc.)
+  * [ ] Wake up at 6 am everyday 
 
 
 
