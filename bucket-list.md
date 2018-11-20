@@ -5,21 +5,19 @@ layout: "page"
 icon: fa-list
 order: 3
 ---
-<!-- I love books! Here are some I'm reading now: -->
-Here is what I'm aiming for this week
-1. Book: *Zero to One*
-2. Book: *Elon Musk*
-3. Cycling: *100km (week)*
-4. Fitness goal:
-    1. *100 crunches*
-    2. *50 push ups*
-    3. *50 burpees*
-    4. *10km run*
-5. Something new to learn:
-    1. *Heart Knot*
-    2. *Bouncing Pattern in LED strip*
-    3. *Markdown Language*
-    4. *ML Algorithms (Definition)*
-    5. *Design Patterns (Definition)*
+#### For Week: 19 November, 2018
+  * [ ] 4 hour work week - Tim Ferriss
+  * [ ] 100 kms of cycling 
+  * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
+  * [ ] Article on Medium
 
-**I will put the done things in each week bucket list section**
+
+
+#### Things Crossed (Highlights):
+
+  * [x] Zero to One - Blake Masters and Peter Thiel
+  * [x] Visit to Cubbon Park, Madiwala Lake, Agara Lake (and 2 others) on bicycle.
+  * [x] Click 25+ images of sunrise and sunsets. [link to the album](https://photos.app.goo.gl/rViWvhUWfTMCjSuP7)
+
+
+>What you get by achieving your goals is not as important as what you become by achieving your goals. - Zig Ziglar
