@@ -6,8 +6,8 @@ icon: fa-list
 order: 3
 ---
 #### For Week: 19 November, 2018
-  * [ ] 4 hour work week - Tim Ferriss
-  * [ ] 100 kms of cycling 
+  * [x] 4 hour work week - Tim Ferriss
+  * [x] 100 kms of cycling 
   * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
   * [ ] Article on Medium
   * [ ] Make a list of 5 healthy food items (Salads etc.)
