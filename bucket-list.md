@@ -5,7 +5,7 @@ layout: "page"
 icon: fa-list
 order: 3
 ---
-#### For Week: 19 November, 2018
+#### For Week: 24 December, 2018
   * [x] 4 hour work week - Tim Ferriss
   * [x] 100 kms of cycling 
   * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
