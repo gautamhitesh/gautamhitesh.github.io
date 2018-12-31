@@ -16,4 +16,4 @@ The result was beautiful but the purpose got lost.
 
 >Isn't the same thing is happening everywhere?
 
-# New Year Resolutions coming.
+# New Year Resolutions coming up.

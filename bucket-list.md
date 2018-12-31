@@ -5,19 +5,22 @@ layout: "page"
 icon: fa-list
 order: 3
 ---
-#### For Week: 24 December, 2018
-  * [x] 4 hour work week - Tim Ferriss
-  * [x] 100 kms of cycling 
+#### For Week: Jan 1, 2019
+  
   * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
   * [ ] Article on Medium
   * [ ] Make a list of 5 healthy food items (Salads etc.)
-  * [ ] Wake up at 6 am everyday 
+  * [ ] Wake up at 6 am everyday
+  * [ ] Juggling
+  * [ ] 4 Hour Body - Tim Ferriss 
 
 
 
 #### Things Crossed (Highlights):
 
   * [x] Zero to One - Blake Masters and Peter Thiel
+  * [x] 4 hour work week - Tim Ferriss
+  * [x] 100 kms of cycling 
   * [x] Visit to Cubbon Park, Madiwala Lake, Agara Lake (and 2 others) on bicycle.
   * [x] Click 25+ images of sunrise and sunsets. [link to the album](https://photos.app.goo.gl/rViWvhUWfTMCjSuP7)
 
