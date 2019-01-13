@@ -43,11 +43,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
-github_url: gautamhitesh
+facebook_url: https://www.facebook.com/heetesh.gautam
+github_url: https://github.com/gautamhitesh
 googleplus_url:
-instagram_url:
-linkedin_url:
+instagram_url: https://www.instagram.com/heeteshgautam/
+linkedin_url: https://www.linkedin.com/in/hitesh-gautam/
 pinterest_url:
 slack_url:
 twitter_url:

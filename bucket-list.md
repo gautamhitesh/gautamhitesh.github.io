@@ -5,15 +5,17 @@ layout: "page"
 icon: fa-list
 order: 3
 ---
-#### For Week: Jan 1, 2019
+#### For Month: Jan, 2019
   
   * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
   * [ ] Article on Medium
-  * [ ] Make a list of 5 healthy food items (Salads etc.)
+  * [X] Make a list of 5 healthy food items (Salads etc.)
   * [ ] Wake up at 6 am everyday
   * [ ] Juggling
   * [ ] 4 Hour Body - Tim Ferriss 
-
+  * [ ] Travel Solo
+  * [ ] Have 10 perfect days
+  * [ ] Rubik's Cube 
 
 
 #### Things Crossed (Highlights):
