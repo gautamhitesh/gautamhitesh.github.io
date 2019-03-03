@@ -5,17 +5,14 @@ layout: "page"
 icon: fa-list
 order: 3
 ---
-#### For Month: Feb 2019
+#### For Month: March 2019
   
+  * [ ] Change one thing about yourself: No lectures, No more correcting others (Top Priority :) )
   * [ ] Schematic for WiFi/Bluetooth connected Colorful Lights
   * [ ] Article on Medium
-  * [x] Wake up at 6 am everyday
   * [ ] Juggling
   * [ ] 4 Hour Body - Tim Ferriss 
-  * [ ] Have 10 perfect days
   * [ ] Rubik's Cube 
-  * [ ] Earn a certification
-  * [ ] Change one thing about yourself: No lectures, No more correcting others
   * [ ] Follow diet for 5 days
 
 #### Things Crossed (Highlights):
@@ -27,6 +24,8 @@ order: 3
   * [x] Click 25+ images of sunrise and sunsets. [link to the album](https://photos.app.goo.gl/rViWvhUWfTMCjSuP7)
   * [x] Travel Solo
   * [x] Make a list of 5 healthy food items (Salads etc.)
-
+  * [x] Have 10 perfect days
+  * [x] Earn a certification
+  * [x] Wake up at 6 am everyday
 
 >What you get by achieving your goals is not as important as what you become by achieving your goals. - Zig Ziglar
