@@ -8,7 +8,7 @@ order: 5
 
 
 1. [ ] Twelve against the gods: William Bolitho Ryall (Suggested by [Subham Pasari](https://www.facebook.com/36.subham))
-2. [ ] The 48 Laws of Power: Robert Greene
+2. [X] The 48 Laws of Power: Robert Greene
 3. [ ] Elon Musk: ASHLEE VANCE
 4. [ ] The 4-Hour Body: Tim Ferriss
 5. [ ] The 4-Hour Chef: Tim Ferriss
@@ -33,3 +33,6 @@ order: 5
 24. [ ] CODE COMPLETE: Steve McConnell
 25. [ ] Inner Engineering: A Yogi's guide to joy (Sadguru)
 26. [ ] Sapiens: A brief history of Humankind: Yuval Noah Harari
+
+
+I am running far behind with respect to this list. Let's just keep this intact in the original format. :) #FingersCrossed
